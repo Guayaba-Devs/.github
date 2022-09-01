@@ -4,6 +4,8 @@
 
 ESCIHU-GEEKS es una comunidad de desarrolladores de software libre que se dedica a la creación de herramientas para la educación.
 
+![Imagen-perro](assets/Imagen-perro.png)
+
 
 <!--
 
