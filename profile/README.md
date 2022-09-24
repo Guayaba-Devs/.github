@@ -1,6 +1,11 @@
-## Bienvenido a ESCIHU-GEEKS 👋
+# Bienvenido a ESCIHU Wizards 👋
 
-### ¿Qué es ESCIHU-GEEKS?
+
+<img align="right" height="200px" src="./assets/wizard.png" alt="wizard" />
+</br>
+
+
+### ¿Qué es Escihu Wizards?
 
 ESCIHU-GEEKS es una comunidad de desarrolladores de software libre que se dedica a la creación de herramientas para la educación.
 
