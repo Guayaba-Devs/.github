@@ -26,4 +26,5 @@ Para dar un impulso a tu carrera profesional, para aprender y compartir conocimi
 
 
 
-<img src="./profile/assets/Imagen-perro.png" width="150px" />
+<!-- <img src="./profile/assets/Imagen-perro.png" width="150px" /> -->
+###### Escihu Wizards 2022 :mexico:
