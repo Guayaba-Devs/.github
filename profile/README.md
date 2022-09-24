@@ -1,15 +1,13 @@
 # Bienvenido a ESCIHU Wizards 👋
 
 
-<img align="right" height="200px" src="../assets/wizard.png" alt="wizard" />
+<img align="right" height="200px" src="./profile/assets/wizard.png" alt="wizard" />
 </br>
 
 
 ### ¿Qué es Escihu Wizards?
 
 ESCIHU-GEEKS es una comunidad de desarrolladores de software libre que se dedica a la creación de herramientas para la educación.
-
-<!--- ![Imagen-perro](./profile/assets/Imagen-perro.png) -->
 
 <img src="./profile/assets/Imagen-perro.png" width="150px" />
 
