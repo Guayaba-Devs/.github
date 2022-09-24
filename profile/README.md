@@ -1,7 +1,7 @@
 # Bienvenido a ESCIHU Wizards 👋
 
 
-<img align="right" height="200px" src="./assets/wizard.png" alt="wizard" />
+<img align="right" height="200px" src="../assets/wizard.png" alt="wizard" />
 </br>
 
 
