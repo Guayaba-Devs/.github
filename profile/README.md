@@ -28,5 +28,9 @@ Para dar un impulso a tu carrera profesional, para aprender y compartir conocimi
 Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de coducta](./codeOfConduct.md).
 
 
+> "Si caminas solo, llegaras rápido, pero si caminas acompañado, llegaras lejos" 
+>  --Proverbio africano
+
+
 <!-- <img src="./profile/assets/Imagen-perro.png" width="150px" /> -->
 ###### Escihu Wizards 2022 :mexico:
