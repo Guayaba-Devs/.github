@@ -23,7 +23,9 @@ Para dar un impulso a tu carrera profesional, para aprender y compartir conocimi
 * Linkedin: Conecta con otros miembros de la comunidad y haz crecer tu red de contactos de linkedin.
 
 
+## Código de conducta
 
+Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de coducta](../codeOfConduct.md).
 
 
 <!-- <img src="./profile/assets/Imagen-perro.png" width="150px" /> -->
