@@ -28,7 +28,7 @@ Para dar un impulso a tu carrera profesional, para aprender y compartir conocimi
 Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de coducta](./codeOfConduct.md).
 
 
-> "Si caminas solo, llegaras rápido, pero si caminas acompañado, llegaras lejos" 
+> "Si caminas solo, llegarás rápido, pero si caminas acompañado, llegarás lejos" 
 >  --Proverbio africano
 
 
