@@ -29,3 +29,19 @@ Una vez completado el formulario anterior pedira que verifiques que no eres un r
 ![Verificar Cuenta](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-06.png)
 
 ![Captcha verificacion](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-07.png)
+
+<br>
+
+Recibiras un correo con un codigo de verificacion, este codigo es de 8 digitos y lo colocaras en el formulario que se te mostrara en la pagina de Github.
+
+![Codigo de verificacion](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-08.png)
+
+## Configurar tu cuenta :wrench:
+
+Una vez completado el proceso anterior, te pedira que configures ciertas caracteristicas acerca del uso de tu cuenta, como por ejemplo, si deseas recibir correos de notificacion entre otras.
+
+Para ello llenaras el formulario que se te mostrara como en la imagen y daras click en "Continue".
+
+> en caso de ser estudiante seleccionar **Student** y en caso de ser profesor seleccionar **Teacher**.
+
+![](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-09.png)
