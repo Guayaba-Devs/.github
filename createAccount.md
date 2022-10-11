@@ -42,6 +42,27 @@ Una vez completado el proceso anterior, te pedira que configures ciertas caracte
 
 Para ello llenaras el formulario que se te mostrara como en la imagen y daras click en "Continue".
 
-> en caso de ser estudiante seleccionar **Student** y en caso de ser profesor seleccionar **Teacher**.
+> En caso de ser estudiante seleccionar **Student** y en caso de ser profesor seleccionar **Teacher**.
 
-![](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-09.png)
+![Configuracion 1](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-09.png)
+
+Marcamos la casilla de **collaboration coding** y damos click en "Continue".
+
+![Configuracion 2](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-10.png)
+
+Finalmente escojemos que tipo de cuenta queremos crear, en este caso seleccionaremos **Free** y damos click en "Continue".
+![plan de github](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-11.png)
+
+Una vez Finalizado el proceso anterior, ya tendras tu cuenta de Github creada y lista para comenzar a trabajar con ella.
+![Panel de github](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-12.png)
+
+
+## Finalizar :tada:
+
+Para este punto ya contaras con tu cuenta de github para poder comenzar a trabajar con ella. :sparkles:
+
+
+El siguiente paso sera activar tu Github Student Developer Pack, para ello puedes ir a la siguiente seccion [Student Developer Pack tutorial]().
+
+
+
