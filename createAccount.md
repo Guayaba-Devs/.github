@@ -32,7 +32,7 @@ Una vez completado el formulario anterior pedira que verifiques que no eres un r
 
 <br>
 
-Recibiras un correo con un codigo de verificacion, este codigo es de 8 digitos y lo colocaras en el formulario que se te mostrara en la pagina de Github.
+Recibiras un correo con el email que registraste anteriormente que contendra un codigo de verificacion, este codigo es de 8 digitos y lo colocaras en el formulario que se te mostrara en la pagina de Github.
 
 ![Codigo de verificacion](https://raw.githubusercontent.com/Escihu-Wizards/Primeros-pasos/main/assets/github-crear-cuenta-08.png)
 
