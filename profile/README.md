@@ -26,7 +26,7 @@ Para dar un impulso a tu carrera profesional, aprender y compartir conocimientos
 
 Para empezar con tu aprendizaje, te invitamos a que te unas a la comunidad de Escihu Wizards, para ello, debes seguir los siguientes pasos:
 
-- [ ] Crear una cuenta de github, aprende aquí como crear una [cuenta de github](../createAccount.md).
+- [ ] Crear una cuenta de github, aprende aquí como crear una [cuenta de github](./createAccount.md).
 - [ ] Activar tu Github Student Developer Pack, aprende aquí como activar tu [Github Student Developer Pack](../activateGithubStudentDeveloperPack.md).
 
 ## Código de conducta
