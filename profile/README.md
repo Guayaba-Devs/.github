@@ -22,6 +22,10 @@ Para dar un impulso a tu carrera profesional, para aprender y compartir conocimi
 
 * Linkedin: Conecta con otros miembros de la comunidad y haz crecer tu red de contactos de linkedin.
 
+## Ingresa a la organización
+Para ingresar a la organización recuerda tener tu cuenta de Github y en caso de no tenerla puedes crear una. Teniendo el paso anterior ahora solo sigue las instrucciones que se muestran en el sistema de invitaciones.
+
+Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
 
 ## Código de conducta
 
@@ -29,7 +33,7 @@ Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a le
 
 
 > "Si caminas solo, llegarás rápido, pero si caminas acompañado, llegarás lejos" 
->  --Proverbio africano
+>  -Proverbio africano
 
 
 <!-- <img src="./profile/assets/Imagen-perro.png" width="150px" /> -->
