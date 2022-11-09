@@ -31,7 +31,7 @@ Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
 Para empezar con tu aprendizaje, te invitamos a que te unas a la comunidad de Escihu Wizards, para ello, debes seguir los siguientes pasos:
 
 - [ ] Crear una cuenta de github, aprende aquí como crear una [cuenta de github](./createAccount.md).
-- [ ] Activar tu Github Student Developer Pack, aprende aquí como activar tu [Github Student Developer Pack](../activateGithubStudentDeveloperPack.md).
+<!--- [ ] Activar tu Github Student Developer Pack, aprende aquí como activar tu [Github Student Developer Pack](../activateGithubStudentDeveloperPack.md). -->
 
 Teniendo los pasos anteriores ahora solo sigue las instrucciones que se muestran en el sistema de invitaciones.
 
@@ -43,11 +43,7 @@ Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
 Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de conducta](./codeOfConduct.md).
 
 
-<<<<<<< HEAD
-> "Si caminas solo, llegarás rápido, pero si caminas acompañado, llegarás lejos" 
-=======
 > **"Si caminas solo, llegarás rápido, pero si caminas acompañado, llegarás lejos"** 
->>>>>>> 2b2604ebdc86f04f883b40d8623d552989702d66
 >  -Proverbio africano
 
 
