@@ -29,7 +29,7 @@ Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
 
 ## Código de conducta
 
-Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de coducta](./codeOfConduct.md).
+Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a leer nuestro [Código de conducta](./codeOfConduct.md).
 
 
 > "Si caminas solo, llegarás rápido, pero si caminas acompañado, llegarás lejos" 
