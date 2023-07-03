@@ -25,4 +25,6 @@ De la misma manera, algunas conductas que no serán toleradas son:
 
 ## Contacto en caso de ayuda al ser víctima o testigo de alguna conducta inadecuada
 
-Si haz sentido agresión o comportamiento no tolerado por el código de conducta puedes comunicarte con algun miembro del equipo [@Texhnolyze47](https://github.com/Texhnolyze47) [@JosafatJimenezB](https://github.com/JosafatJimenezB) [@phdpalma](https://github.com/phdpalma) o al correo de la comunidad. Si crees que faltan reglas o aspectos de comportamiento por tomar en cuenta puedes contribuir a mejorar el código de conducta creando tu pull request.
+Si haz sentido agresión o comportamiento no tolerado por el código de conducta puedes comunicarte con algun miembro del equipo [@Texhnolyze47](https://github.com/Texhnolyze47) [@JosafatJimenezB](https://github.com/JosafatJimenezB) [@phdpalma](https://github.com/phdpalma) o al correo de la comunidad.
+
+> En caso de incumplir con estas normas se dara de baja de la comunidad contemplando la gravedad de la situación.
