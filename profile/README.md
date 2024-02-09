@@ -1,16 +1,15 @@
-# Bienvenido a ESCIHU Wizards <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Bienvenido a Guayaba Devs <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
-<img align="right" height="250px" src="./profile/assets/wizard.png" alt="wizard" />
+<img align="right" width="120" height="120" src="https://avatars.githubusercontent.com/u/112519434?s=200&v=4">
 
-Escihu Wizards nace en 2022 por un grupo de estudiantes de sistemas computacionales comprometidos a crear un espacio de aprendizaje y desarrollo de habilidades para estudiantes, como lo es el uso de Git y Github para el versionado de código entre otras herramientas de desarrollo.
+Todo comenzó en 2022 con Escihu Wizards, fundada por un grupo de estudiantes de sistemas computacionales con ganas de crear una comunidad para estudiantes. Este espacio inicial se centraba en el aprendizaje y la práctica de herramientas como Git y Github para el versionado de código, entre otras acerca del desarrollo de software.
 
-Somos una comunidad con el mismo objetivo y con el interés de conocer, conectar, colaborar y aprender juntos de lo mucho que tiene por ofrecer el mundo de la tecnología.
-
+Con el tiempo, esta iniciativa ha evolucionado hacia Guayaba Devs, una comunidad más amplia y diversa que cuenta con diversas sedes. En Guayaba Devs, compartimos el mismo objetivo de aprendizaje y desarrollo, pero ahora nos enfocamos en conectar, colaborar y aprender juntos en todos los aspectos que el vasto mundo de la tecnología tiene para ofrecer para todos.
 
 ## ¿Por qué formar parte de la comunidad?
 
-Para dar un impulso a tu carrera profesional, aprender y compartir conocimientos, conocer a personas con intereses similares, el desarrollo de habilidades blandas y para ser parte de una comunidad que te apoye en tu crecimiento personal y profesional.
+Para impulsar tu carrera profesional, ampliar tus conocimientos, conectar con personas afines, desarrollar habilidades blandas y formar parte de una comunidad que respalde tu crecimiento tanto personal como profesional.
 
 
 ## Beneficios que obtendras al ser parte de la comunidad
@@ -24,18 +23,18 @@ Para dar un impulso a tu carrera profesional, aprender y compartir conocimientos
 ## Ingresa a la organización
 Para ingresar a la organización recuerda tener tu cuenta de Github y en caso de no tenerla puedes crear una. Teniendo el paso anterior ahora solo sigue las instrucciones que se muestran en el sistema de invitaciones.
 
-Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
+Para ingresar da [click aqui](https://invite-guayaba-devs.netlify.app/)
 
 ## ¿Cómo unirte a la comunidad? :rocket:
 
-Para empezar con tu aprendizaje, te invitamos a que te unas a la comunidad de Escihu Wizards, para ello, debes seguir los siguientes pasos:
+Para empezar con tu aprendizaje, te invitamos a que te unas a la comunidad de Guayaba Devs, para ello, debes seguir los siguientes pasos:
 
 - [ ] Crear una cuenta de github, aprende aquí como crear una [cuenta de github](./createAccount.md).
 <!--- [ ] Activar tu Github Student Developer Pack, aprende aquí como activar tu [Github Student Developer Pack](../activateGithubStudentDeveloperPack.md). -->
 
 Teniendo los pasos anteriores ahora solo sigue las instrucciones que se muestran en el sistema de invitaciones.
 
-Para ingresar da [click aqui](https://escihu-wizards.netlify.app/)
+Para ingresar da [click aqui](https://invite-guayaba-devs.netlify.app/)
 
 
 ## Código de conducta
@@ -48,4 +47,4 @@ Para la sana convivencia y el crecimiento de nuestra comunidad te invitamos a le
 
 
 <!-- <img src="./profile/assets/Imagen-perro.png" width="150px" /> -->
-###### Escihu Wizards 2022 :mexico:
+###### Guayaba Devs 2024 :mexico:
