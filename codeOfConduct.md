@@ -1,6 +1,6 @@
 # Codigo de Conducta
 
-ESCIHU WIZARDS es un espacio creado por estudiantes y para estudiantes, en donde el respeto y la inclusión son aspectos de vital importancia. Es con esto en mente que esperamos que todos los miembros se conduzcan de una manera que refleje nuestros valores, tanto dentro de los espacios directamente ligados a ESCIHU WIZARDS como en cualquier otra situación externa que pueda afectar la imagen de la comunidad u ofender a alguno de sus miembros. Recuerda que nuestro futuro como comunidad depende de los nuevos integrantes, y con ese fin deseamos ser una asociación con buena reputación.
+Guayaba Devs es un espacio creado por estudiantes y para estudiantes, en donde el respeto y la inclusión son aspectos de vital importancia. Es con esto en mente que esperamos que todos los miembros se conduzcan de una manera que refleje nuestros valores, tanto dentro de los espacios directamente ligados a Guayaba Devs como en cualquier otra situación externa que pueda afectar la imagen de la comunidad u ofender a alguno de sus miembros. Recuerda que nuestro futuro como comunidad depende de los nuevos integrantes, y con ese fin deseamos ser una asociación con buena reputación.
 
 ## Conductas Positivas
 
@@ -25,6 +25,6 @@ De la misma manera, algunas conductas que no serán toleradas son:
 
 ## Contacto en caso de ayuda al ser víctima o testigo de alguna conducta inadecuada
 
-Si haz sentido agresión o comportamiento no tolerado por el código de conducta puedes comunicarte con algun miembro del equipo [@Texhnolyze47](https://github.com/Texhnolyze47) [@JosafatJimenezB](https://github.com/JosafatJimenezB) [@phdpalma](https://github.com/phdpalma) o al correo de la comunidad.
+Si haz sentido agresión o comportamiento no tolerado por el código de conducta puedes comunicarte con algun miembro del equipo [@Texhnolyze47](https://github.com/Texhnolyze47) [@JosafatJimenezB](https://github.com/JosafatJimenezB) [@Ian Vega](https://github.com/Lann892) o al correo de la comunidad.
 
 > En caso de incumplir con estas normas se dara de baja de la comunidad contemplando la gravedad de la situación.
